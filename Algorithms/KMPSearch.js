@@ -16,7 +16,7 @@ function buildPatternTable(pattern) {
 		}
 	}
 
-	return lpsArr
+	return table
 }
 
 function kmpSearch(text, pattern) {
